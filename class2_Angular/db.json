@@ -1,0 +1,11 @@
+{
+    "Student": [
+        {
+            "id": "1",
+            "name": "Badeul",
+            "Roll": "100",
+            "cell-number": "23465+4132",
+            "fee": 1000
+        }
+    ]
+}
