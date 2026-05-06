@@ -6,7 +6,7 @@
   },
   "newProjectRoot": "projects",
   "projects": {
-    "JEE_69_angular": {
+    "practice": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:class": {
@@ -81,10 +81,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "JEE_69_angular:build:production"
+              "buildTarget": "practice:build:production"
             },
             "development": {
-              "buildTarget": "JEE_69_angular:build:development"
+              "buildTarget": "practice:build:development"
             }
           },
           "defaultConfiguration": "development"
